@@ -57,9 +57,8 @@ body {
 }
 
 .Container {
-  max-width: 1200px;
   margin: 0 auto;
-  padding: 50px;
+  padding: 20px;
 }
 
 h1 {
